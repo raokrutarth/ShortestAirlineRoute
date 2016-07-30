@@ -4,3 +4,4 @@
   + Dijkstra's algorithim
   + Prim's 
   + Eulerian tour
+  + Binary heap data structure implementation
